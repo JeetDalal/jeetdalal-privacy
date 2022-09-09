@@ -9,7 +9,7 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 ### Information Collection and Use  
 We do not collect any kind of information from the user.  
-The app does use third party services that may collect information used to identify you. 
+The app does not use third party services that may collect information used to identify you. 
 
 ### Cookies  
 Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.  
