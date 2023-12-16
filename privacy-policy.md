@@ -1,40 +1,35 @@
-Privacy Policy  
+Privacy Policy
 ----------------
 
 ### Introduction  
-Our privacy policy will help you understand what information we collect at Cube Timer, how Cube Timer uses it, and what choices you have.
-Cube Timer built the Cube Timer app as a free app. This SERVICE is provided by Cube Timer at no cost and is intended for use as is.
-If you choose to use our Service, then you agree to the collection and use of information in  relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.  
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible in our website, unless otherwise  defined in this Privacy Policy.
+Welcome to the privacy policy of Cube Timer. This document outlines how Cube Timer, the provider of the Cube Timer app, collects and utilizes information, as well as the choices available to you. Cube Timer offers this SERVICE for free and encourages users to review the following policy to understand our practices.
+
+By using our Service, you consent to the collection and use of information as outlined in this policy. The Personal Information collected is employed for the enhancement of the Service, and your information will not be used or disclosed to others except as detailed in this Privacy Policy. The terms used here have the same meanings as in our Terms and Conditions, accessible on our website, unless defined differently in this Privacy Policy.
 
 ### Information Collection and Use  
-We do not collect any kind of information from the user.  
-The app does not use third party services that may collect information used to identify you. 
+In order to provide and improve our Service, Cube Timer now incorporates advertisements. While using the app, non-personal information related to ad interactions may be collected. This information is utilized solely for enhancing the user experience and optimizing ad content.
 
 ### Cookies  
-Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.  
-
-The app doesn't use cookies.  
+Cube Timer may use cookies to enhance your experience. Cookies are small data files sent to your browser from the websites you visit, stored on your device's internal memory. These cookies serve as anonymous unique identifiers to facilitate a more personalized experience. Users have the option to manage cookie preferences within the app settings.
 
 ### Location Information  
-No location information is collected from the user.  
+Cube Timer does not collect location information from users.
 
 ### Device Information  
-We do not collect information from your device in any case.   
+We do not collect any information from your device except for non-personal data related to ad interactions.
 
 ### Service Providers  
-We do not employ any third-party companies and individuals.
+While Cube Timer may engage with third-party companies for ad-related services, rest assured that your personal information will not be shared.
 
 ### Security  
-No information of the user is collected in any way. Hence, the app is completely safe and secure to use.  
+No personal information of the user is collected, ensuring that the app remains secure for use.
 
 ### Children’s Privacy  
-This services has no age restriction.
+This Service is intended for users above the age of 13.
 
 ### Changes to This Privacy Policy  
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.  
+The Privacy Policy may be updated periodically. Users are encouraged to review this page for any changes. Notification of such changes will be provided by posting the updated Privacy Policy on this page, and they will take effect immediately upon posting.
 
 ### Contact Us  
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.  
-Contact Information:  
-Email: *[dalaljeet9@email.com]*  
+For any questions or suggestions regarding our Privacy Policy, please contact us at the following email address:
+Email: *[dalaljeet9@email.com]*
